@@ -12,12 +12,6 @@
 		  	<li><a href="contact.html">CONTACT</a></li>
 		   </ul>
 		 </nav>
-		  
-		  	<h1></h1>
-		  </div>
-		  </hr>
-
-	</div>
 	</header>
 </body>
 </html>
