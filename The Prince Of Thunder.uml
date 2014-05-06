@@ -13302,7 +13302,7 @@
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedDiagrams[15]" type="UMLActivityDiagram" guid="ZAhkL+kcTU2d7GfOh4szegAA">
-<XPD:ATTR name="Name" type="string">Buy Armour</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Buy Armor</XPD:ATTR>
 <XPD:REF name="DiagramOwner">PDTb4mtgrkeyx+woIMGypgAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLActivityDiagramView" guid="csFntL7lu0S/axnuM+OB3AAA">
 <XPD:REF name="Diagram">ZAhkL+kcTU2d7GfOh4szegAA</XPD:REF>
